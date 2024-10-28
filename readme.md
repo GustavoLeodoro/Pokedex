@@ -26,8 +26,6 @@ O sonho de todo fã de Pokémon é ter a Pokédex completa! Este projeto permite
 </p> 
 
 
-<h1 align="center"> 🎥 Demonstração</h1>
-[Assista a uma demonstração do projeto aqui](<div style="padding:53.3% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1024136354?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Gravando 2024-10-28 173026"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>)
 
 
 <h1 align="center">🌐 Funcionalidades</h1>
