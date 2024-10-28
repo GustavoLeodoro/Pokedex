@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Links -->
+  <link rel="icon" href="./favicons/favicon-16x16.png">
+  <link rel="stylesheet" href="./css/style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
+  <!-- Main JS -->
+  <script defer src="./js/script.js"></script>
+
+  <title>Pokédex</title>
+</head>
+<body>
+  
+  <main>
+    <img src="#" alt="pokemon" class="pokemon__image">
+
+    <h1 class="pokemon__data">
+      <span class="pokemon__number"></span> -
+      <span class="pokemon__name"></span>
+    </h1>
+
+    <form class="form">
+      <input
+        type="search"
+        class="input__search"
+        placeholder="Name or Number"
+        required
+      />
+    </form>
+
+    <div class="buttons">
+      <button class="button btn-prev">Prev &lt;</button>
+      <button class="button btn-next">Next &gt;</button>
+    </div>
+
+    <img src="./Imagens/pokedex.png" alt="pokedex" class="pokedex">
+  </main>
+
+  <footer class="footer" id="footer">
+    <div class="footer-column social-column">
+      <ul class="social-links">
+        <li><a href="https://www.instagram.com/_leodoro" target="_blank"><i class="fab fa-instagram"></i> Instagram</a></li>
+        <li><a href="https://github.com/GustavoLeodoro" target="_blank"><i class="fab fa-github"></i> GitHub</a></li>
+        <li><a href="https://www.linkedin.com/in/gustavo-leodoro/" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a></li>
+      </ul>
+    </div>
+    
+    <div class="footer-column credits-column">
+      <p>&copy; 2024 Todos os direitos reservados.</p>
+      <p>Desenvolvido por Gustavo Leodoro│Dev.</p>
+    </div>
+  </footer>
+</body>
+</html>
