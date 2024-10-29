@@ -7,10 +7,10 @@
 <p align="center">
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-HTML e CSS: para estruturação e estilização da interface
-JavaScript: para funcionalidade e interação com a API
-PokéAPI: para fornecer informações sobre cada Pokémon
-Netlify: para hospedagem e deploy contínuo
+HTML e CSS: para estruturação e estilização da interface.
+JavaScript: para funcionalidade e interação com a API.
+PokéAPI: para fornecer informações sobre cada Pokémon.
+Netlify: para hospedagem e deploy contínuo.
 
 </p> 
 
