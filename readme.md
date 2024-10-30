@@ -25,7 +25,7 @@ O sonho de todo fã de Pokémon é ter a Pokédex completa! Este projeto permite
 - **Responsividade**: Totalmente adaptada para uso em celulares, tablets e desktops.
 
 <p align="center">
-  <img src="imagens/Pokedex_GL.png" alt="Imagem da Pokédex" width="600"/>
+  <img src="imagens/Pokedex_GL.png" alt="Imagem da Pokédex" width="800"/>
 </p>
 
 <h2 align="center">🛠 Estrutura do Projeto</h2>
